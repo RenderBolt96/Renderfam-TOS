@@ -9,6 +9,22 @@
 
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
 
-<b>YOU WILL BE THE ONE HELD RESPONSIBLE FOR YOUR ACTIONS, SO IF YOU GET IN TROUBLE AND USE THIS FOR ILLEGAL ACTIVITIES, THE PUNISHMENTS ARE ON YOU, SO WOMP WOMP BECAUSE I AM FULLY PROTECTED FROM THE PUNISHMENTS OF <i>YOUR</i> ACTIONS!!!</b>.
+<i>By joining this Discord server, you agree to abide by our rules and respect the Discord Terms of Service. This includes refraining from posting any content that is hateful, discriminatory, sexually explicit, violent, or otherwise harmful. Please be mindful of others and maintain a positive community environment. Violation of these rules may result in consequences, including bans."
+Key points to include in your Discord server ToS:
+Respectful Conduct: No harassment, bullying, or offensive language towards other members.
+No Spamming: Avoid excessive posting of irrelevant content or repetitive messages.
+Appropriate Content: Do not share sexually explicit, violent, or hateful material.
+No Self-Promotion: Limit advertising of other servers or personal channels without permission.
+Community Guidelines: Follow any specific rules set by the server admins related to the server's theme or focus.
+Reporting Violations: Encourage users to report any rule violations to moderators.
+Important Considerations:
 
+### Age Restrictions:
+- Members are required to be the age of 13 or older to join this server. If it is discovered that a user does not meet the age requirments, a server ban as well as a Discord account report will be administered.
+Channel Specific Rules:
+Designate specific rules for different channels on your server (e.g., "NSFW" channel for adult content).
+### Enforcement Policy:
+- It is our duty to fairly administrate punishments to those who have broken our rules. Punishments for breaking said rules may consist timeouts, server mutes/deafens, server kicks/bans, account reports.</i>
+##
+<b>For more info, read the Official Discord TOS!</b>
 ##
