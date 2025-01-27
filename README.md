@@ -5,14 +5,14 @@
 ### Our Community Guidelines:
 1. <b>No Offensive Messages/Nicknames</b> - Anything that a reasonable person might find offensive is not allowed.
 2. <b>No Spam</b> - This includes @ mention spam, character spam, image spam and message spam.
-3. <b>No Promotion of Illicit, Illegitimate, Unlawful, or NSFW Things</b> - This includes CP, Doxing, NSFW Content, Prostitution, or anything else that is considered unlawful.
-4. <b>No Harassment</b> - Including bigotry or hate speech, homophobia, transphobia, racism, sexism, ableism, antisemitism, or any other forms of harassment.
+3. <b>No Promotion of Unlawful or NSFW Things</b> - This includes CP, Doxing, NSFW Content, Prostitution, etc...
+4. <b>No Harassment</b> - Including bigotry or hate speech, homophobia, transphobia, racism, sexism, ableism, or antisemitism.
 5. <b>No Self or User Bots</b> - This includes botted accounts, bot promotion accounts, automated message accounts, etc...
 6. <b>Don't Share Personal Information</b> - This includes the age, location, IP, name, etc... of yourself or others.
-7. <b>No Discussion of Political Subjects</b> - This includes politics, religion issues, and other inflammatory topics to avoid derogatory arguments from happening.
-8. <b>No Asking When Applications Are Opening</b> - This includes asking for when Developer, Moderator, Beta Tester, or YouTube Applications are opening.
+7. <b>No Discussion of Political Subjects</b> - This includes politics, religion issues, and other inflammatory topics to avoid arguments.
+8. <b>No Asking When Applications Are Opening</b> - This includes asking when Developer, Moderator, or Beta Tester applications are opening.
 9. <b>Respect Everyone</b> - Treat everyone with the same amount fairness and respect.
-10. <b>No Asking for Mod</b> - You are welcome to asking me to become a developer, but are allowed to ask to become a Moderator, Beta Tester, or YouTuber.
+10. <b>No Asking for Mod</b> - You are welcome to asking me to become a developer, but are allowed to ask to become a Moderator, or Beta Tester.
 11. <b>Mind the Mods</b> - Listen to the mods; they're here to keep the peace. If you have concerns, reach out to them privately.
 12. <b>No Drama Llama</b> - Leave the drama at the door. If you have an issue, reach out to a mod for assistance. We're here to help!
 13. <b>No Slurs</b> - This means that the use of profanity is allowed, but the use of slurs is strictly prohibited and won't be tolerated.
