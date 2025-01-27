@@ -27,7 +27,7 @@
 - Members are required to be the age of 13 or older to join this server. If it is discovered that a user does not meet the age requirments, a server ban as well as a Discord account report will be administered. This also may mean that our server is made up mostly of people of the age of 13, 14, 15, and 16. Because of this, please keep the discussions safe and normal, and avoiding any disussion of any NSFW, Illigal, Political, or Religion.
 ##
 ### Enforcement Policy:
-- It is our duty to fairly administrate punishments to those who have broken our rules. Punishments for breaking said rules may consist timeouts, server mutes/deafens, server kicks/bans, account reports. In extreme cases, such as child endangerment, law enforcement be required to be involved.</i>
+- It is our duty to fairly administrate punishments to those who have broken our rules. Punishments for breaking said rules may consist timeouts, server mutes/deafens, server kicks/bans, account reports. In extreme cases, such as child endangerment, law enforcement may be required to be involved.</i>
 ##
 ### <b>For more info or specification, read the <a href="https://discord.com/terms">Official Discord TOS</a></b>
 ##
