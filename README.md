@@ -18,13 +18,14 @@ No Self-Promotion: Limit advertising of other servers or personal channels witho
 Community Guidelines: Follow any specific rules set by the server admins related to the server's theme or focus.
 Reporting Violations: Encourage users to report any rule violations to moderators.
 Important Considerations:
-
+##
 ### Age Restrictions:
 - Members are required to be the age of 13 or older to join this server. If it is discovered that a user does not meet the age requirments, a server ban as well as a Discord account report will be administered.
 Channel Specific Rules:
 Designate specific rules for different channels on your server (e.g., "NSFW" channel for adult content).
+##
 ### Enforcement Policy:
 - It is our duty to fairly administrate punishments to those who have broken our rules. Punishments for breaking said rules may consist timeouts, server mutes/deafens, server kicks/bans, account reports.</i>
 ##
-<b>For more info, read the Official Discord TOS!</b>
+### <b>For more info or specification, read the <a href="https://discord.com/terms">Official Discord TOS</a></b>
 ##
