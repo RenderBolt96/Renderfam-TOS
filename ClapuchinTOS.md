@@ -1,5 +1,5 @@
-# Clapuchin-TOS
-### Clapuchin Terms and Service Agreement
+# Renderfam-TOS
+### Renderfam Terms and Service Agreement
 <i>By joining this Discord server, you agree to abide by our rules and respect the <a href="https://discord.com/terms">Discord Terms of Service</a>. This includes refraining from posting any content that is hateful, discriminatory, sexually explicit, violent, or otherwise harmful. Please be mindful of others and maintain a positive community environment. Violation of these rules may result in consequences, including bans, mutes, or reports. Our server follows Discord's Community Guidelines, as well as our own unique Community Guidelines and other policies. We are subjected to control the server permissions and additional rules, including the establishment of membership requirements and custom roles, and what those roles can do within the server. Please refrain from going against these terms to avoid conflict!
 ##
 ### Our Community Guidelines:
